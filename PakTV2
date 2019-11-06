@@ -1,81 +1,53 @@
 #EXTM3U
-#EXTINF:-1,https://flylinks.net,Hum TV
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6122.ts
-#EXTINF:-1,https://flylinks.net,Pk 92 News
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6077.ts
-#EXTINF:-1,https://flylinks.net,Pk 92 News 1
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6078.ts
-#EXTINF:-1,https://flylinks.net,UK - Ary New Vision
-http://isondemand.desitouchtv.com:13000/live/223main/223main/5390.ts
-#EXTINF:-1,https://flylinks.net,Pk ARY Digital
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6080.ts
-#EXTINF:-1,https://flylinks.net,UK - Ary Family
-http://isondemand.desitouchtv.com:13000/live/223main/223main/5388.ts
-#EXTINF:-1,https://flylinks.net,Pk ARY QTV
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6081.ts
-#EXTINF:-1,https://flylinks.net,Aaj News
-http://isondemand.desitouchtv.com:13000/live/223main/223main/5430.ts
-#EXTINF:-1,https://flylinks.net,Pk AVT KHYBER
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6082.ts
-#EXTINF:-1,https://flylinks.net,Pk Channel Win
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6083.ts
-#EXTINF:-1,https://flylinks.net,UK - Dunya News
-http://isondemand.desitouchtv.com:13000/live/223main/223main/5389.ts
-#EXTINF:-1,https://flylinks.net,Dawn News
-http://isondemand.desitouchtv.com:13000/live/223main/223main/5429.ts
-#EXTINF:-1,https://flylinks.net,UK - Geo Tv
-http://isondemand.desitouchtv.com:13000/live/223main/223main/5394.ts
-#EXTINF:-1,https://flylinks.net,Geo News
-http://isondemand.desitouchtv.com:13000/live/223main/223main/5408.ts
-#EXTINF:-1,https://flylinks.net,PK - Raham Tv
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6918.ts
-#EXTINF:-1,https://flylinks.net,Pk Geo TV
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6089.ts
-#EXTINF:-1,https://flylinks.net,Pk Geo TV 1
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6090.ts
-#EXTINF:-1,https://flylinks.net,Pk Geo Tez
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6088.ts
-#EXTINF:-1,https://flylinks.net,Pk Geo News
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6087.ts
-#EXTINF:-1,https://flylinks.net,Pk Geo Kahani
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6086.ts
-#EXTINF:-1,https://flylinks.net,Hum News
-http://isondemand.desitouchtv.com:13000/live/223main/223main/5432.ts
-#EXTINF:-1,https://flylinks.net,Pk JK 24x7 News
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6091.ts
-#EXTINF:-1,https://flylinks.net,Pk Khyber News TV
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6096.ts
-#EXTINF:-1,https://flylinks.net,Pk Khyber Middle East TV
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6095.ts
-#EXTINF:-1,https://flylinks.net,Pk Kay2 TV 2
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6094.ts
-#EXTINF:-1,https://flylinks.net,Pk Kay2 TV 1
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6093.ts
-#EXTINF:-1,https://flylinks.net,Pk Kay2 TV
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6092.ts
-#EXTINF:-1,https://flylinks.net,Pk Lahore News
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6097.ts
-#EXTINF:-1,https://flylinks.net,Pk Minhaj TV
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6098.ts
-#EXTINF:-1,https://flylinks.net,Pk News UK 2
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6079.ts
-#EXTINF:-1,https://flylinks.net,Pk Nazrana TV 1
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6100.ts
-#EXTINF:-1,https://flylinks.net,Pk Nazrana TV
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6099.ts
-#EXTINF:-1,https://flylinks.net,Pk OP Kids
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6101.ts
-#EXTINF:-1,https://flylinks.net,Pk PTV News
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6103.ts
-#EXTINF:-1,https://flylinks.net,Pk PTV Home
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6102.ts
-#EXTINF:-1,https://flylinks.net,Samam News
-http://isondemand.desitouchtv.com:13000/live/223main/223main/5431.ts
-#EXTINF:-1,https://flylinks.net,Urdu TV Toronto
-http://isondemand.desitouchtv.com:13000/live/223main/223main/4877.ts
-#EXTINF:-1,https://flylinks.net,Pk Urdu TV Toronto
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6106.ts
-#EXTINF:-1,https://flylinks.net,Pk ubrang TV (USA)
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6105.ts
-#EXTINF:-1,https://flylinks.net,Pk Zindagi TV
-http://isondemand.desitouchtv.com:13000/live/223main/223main/6107.ts
+EXTINF:-1,PK: 24 NEWS
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4962
+EXTINF:-1,PK: 92 HD
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4986
+EXTINF:-1,PK: AAJ NEWS
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4988
+EXTINF:-1,PK: ARY DIGITAL
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4976
+EXTINF:-1,PK: ARY NEWS
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4977
+EXTINF:-1,PK: ARY NEWS HD
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4989
+EXTINF:-1,PK: ARY QTV
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4972
+EXTINF:-1,PK: ARY ZAUQ
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4973
+EXTINF:-1,PK: ARY ZINDAGI
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4974
+EXTINF:-1,PK: CITY 42
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4982
+EXTINF:-1,PK: DAWN NEWS
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4983
+EXTINF:-1,PK: DUNYA NEWS
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4985
+EXTINF:-1,PK: EXPRESS
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4971
+EXTINF:-1,PK: EXPRESS NEWS
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4987
+EXTINF:-1,PK: GEO TEZZ
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4969
+EXTINF:-1,PK: GEO TV
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4990
+EXTINF:-1,PK: HUM SITARAY
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4978
+EXTINF:-1,PK: HUM TV
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4979
+EXTINF:-1,PK: HUM WORLD
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4980
+EXTINF:-1,PK: PAIGHAM TV
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4959
+EXTINF:-1,PK: PASHTO 1
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4957
+EXTINF:-1,PK: PEACE TV URDU
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4956
+EXTINF:-1,PK: SAMAA
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4970
+EXTINF:-1,PK: SUCH TV
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4964
+EXTINF:-1,PK: TIMES TV
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4960
+EXTINF:-1,PK: WAQT NEWS
+http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4963
